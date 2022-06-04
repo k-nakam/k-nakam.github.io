@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+My CV is here
 
 Education
 ======
@@ -17,7 +18,7 @@ Education
   
 Skills
 ======
-* R, Python, Latex, C, C++
+* R, Python, Latex, 
 * Language: Japanese (native), English (fluent)
 
 Publications

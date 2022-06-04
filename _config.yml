@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kentaro Nakamura / Site Title"
+title                    : "Kentaro Nakamura"
 title_separator          : "-"
 name                     : &name "Kentaro Nakamura"
 description              : &description "M.S. candidate at the University of Chicago"

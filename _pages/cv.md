@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Political Science (Minor in Law, Certificate in Data Science), Waseda University, 2021
 * M.S. in Statistics, University of Chicago, 2023 (expected)
+* B.A. in Political Science (Minor in Law, Certificate in Data Science), Waseda University, 2021
+
   
 Skills
 ======

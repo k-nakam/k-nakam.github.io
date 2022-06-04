@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is here.
+My CV is <u><a href="{{author.googlescholar}}">here</a>.</u>
 
 Education
 ======

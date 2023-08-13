@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a second-year master's Student at the Department of Statistics, University of Chicago. From 2023 fall, I will join Harvard University as a Ph.D. student in Public Policy (Politics and Institution track, Harvard Kennedy School).
+Welcome to my website. I am a Ph.D. student in at Harvard Kennedy School (Ph.D. in Public Policy, Politics and Institutions Track). 
 
-My interest spans two fields: international relations (especially, political violece, civil wars, terrorism, and international communication) and political methodologies (especially, causal inference, machine learning, and integration of both fields). I have been engaged in several research projects related to these interests. My work has been published at the peer-reviewed journal (international jounrnal of communication). Since September 2022, I also have worked as a Data and Causal Inference Analyst at Chicago Project on Security and Threats (CPOST) led by Professor Robert Pape.
+My interest spans two fields: international relations (especially, political violece, civil wars, terrorism, and international communication) and political methodologies (especially, causal inference, machine learning, and integration of both fields). I have been engaged in several research projects related to these interests. My work has been published at the peer-reviewed journal (international jounrnal of communication). Since September 2022, I also have worked as a Data and Causal Inference Analyst at Chicago Project on Security and Threats (CPOST).
 
-Before coming at the University of Chicago, I received my B.A. in Political Science in September 2021 from Waseda University in Japan. You can download my CV from [here](https://k-nakam.github.io/files/CV.pdf). 
+Before coming at Harvard, I received M.S. in Statictis from the University of Chicago and B.A. in Political Science from Waseda University in Japan. You can download my CV from [here](https://k-nakam.github.io/files/CV.pdf). 
 

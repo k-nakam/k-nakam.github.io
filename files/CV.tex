@@ -1,0 +1,384 @@
+%\documentclass[A4,11pt]{article}
+\documentclass[letterpaper,11pt]{article} %For use in US
+\usepackage{latexsym}
+\usepackage{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{color}
+%\usepackage[dvipdfmx]{color, hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+\definecolor{sanguria}{rgb}{0.57, 0.0, 0.04}
+\newcommand{\uline}[1]{%
+  \underline{\smash{#1}\vphantom{T}}\vphantom{#1}%
+}
+
+
+% serif
+\usepackage{palatino}
+ %\usepackage{times} %This is the default as well
+% \usepackage{charter}
+
+% sans-serif
+% \usepackage{helvet}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+%-----PAGE SETUP---------------------------------------------------------------
+
+% Adjust margins
+%\addtolength{\oddsidemargin}{-1cm}
+%\addtolength{\evensidemargin}{-1cm}
+%\addtolength{\textwidth}{2cm}
+%\addtolength{\topmargin}{-1cm}
+%\addtolength{\textheight}{2cm}
+
+% Margins for US Letter size
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0cm}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that .pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-----CUSTOM COMMANDS FOR FORMATTING SECTIONS----------------------------------
+\newcommand{\CVItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\CVSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \small#3 & \small #4 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\CVSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \text{\small#1} & \text{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\CVSubItem}[1]{\CVItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\CVSubHeadingListStart}{\begin{itemize}[leftmargin=0.5cm, label={}]}
+% \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]} % Uncomment for US
+\newcommand{\CVSubHeadingListEnd}{\end{itemize}}
+\newcommand{\CVItemListStart}{\begin{itemize}}
+\newcommand{\CVItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+%------------------------------------------------------------------------------
+% CV STARTS HERE  %
+%------------------------------------------------------------------------------
+\begin{document}
+
+%-----HEADING------------------------------------------------------------------
+
+%\begin{minipage}[c]{0.05\textwidth}
+%\-\
+%\end{minipage}
+%\begin{minipage}[c]{0.2\textwidth}
+%\begin{tikzpicture}
+%    \clip (0,0) circle (1.75cm);
+%    \node at (0,-.7) {\includegraphics[width = 9cm]{portrait}}; 
+    % if necessary the picture may be moved by changing the at (coordinates)
+    % width defines the 'zoom' of the picture
+%\end{tikzpicture}
+%\hfill\vline\hfill
+%\end{minipage}
+\begin{minipage}[c]{1.0\textwidth}
+\centering
+    \textbf{\LARGE \scshape{Kentaro Nakamura}} \\ 
+    \vspace{5pt}
+    % \scshape sets small capital letters, remove if desired
+ %\vspace{1pt}
+    \small{\textbf{Contact}: knakamura [at] g.harvard.edu} \\ \vspace{1pt}
+   \small{\textbf{Website}: \color{sanguria}{\href{https://k-nakam.github.io}{https://k-nakam.github.io}}}
+    %\small{Last Updated: \today}
+    % Be sure to use a professional *personal* email address
+    % you should adjust you linked in profile name to be professional and recognizable
+    %\href{https://github.com/fizixmastr}{\underline{github.com/fizixmastr}}
+\end{minipage}
+
+\vspace{-5pt}
+% Without picture
+%\begin{center}
+%    \textbf{\Huge \scshape Charles Rambo} \\ \vspace{1pt} %\scshape sets small capital letters, remove if desired
+%    \small +1 123-456-7890 $|$ 
+%    \href{mailto:you@provider.com}{\underline{you@provider.com}} $|$\\
+%    % Be sure to use a professional *personal* email address
+%    \href{https://linkedin.com/in/your-name-here}{\underline{linkedin.com/in/charles-rambo}} $|$
+%    % you should adjust you linked in profile name to be professional and recognizable
+%    \href{https://github.com/fizixmastr}{\underline{github.com/fizixmastr}}
+%\end{center}
+
+
+\section{Education}
+  \CVSubHeadingListStart
+    \CVSubheading % Example
+     {{Harvard University}}{Sep.2023 -- Present}
+      {Ph.D. $|$ \emph{Public Policy} (Politics and Institution Track)}{Cambridge, USA}
+    \CVSubheading
+      {{University of Chicago}}{Sep.2021 -- Jun.2023}
+      {Master of Science $|$ \emph{Statistics}}{Chicago, USA}
+       \CVItemListStart
+        %\CVItem{Focus: Machine Learning, Optimization, Causal Inference, and Political Science}
+        \CVItem{Supervisors: Molly Offer-Westort (Political Science), Victor Veitch (Statistics)}
+
+    \CVItemListEnd
+    \CVSubheading
+      {{Waseda University}}{Apr.2017 -- Sep.2021}
+      {Bachelor of Arts $|$ \emph{\small{Major: Political Science, Minor: Law,  Certificate: Data Science}}}{Tokyo, Japan}
+      \CVItemListStart
+       %\CVItem{Focus: International Relations, Law, Data Science, and Econometrics}
+        %\CVItem{Best Paper Award}
+        \CVItem{Supervisor: Shuhei Kurizaki}
+        \CVItem{Best Paper Award (Excellent work at the Category of Mathematical and Statistical Measurement)}
+        %\CVItem{GPA: 3.76/4.00\footnote{World Education Services is used to rescale GPA for the US universities’ scale.}\textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/s/d7fz3hnhxm4xt4o/transcript_merged.pdf?dl=0}{Trans.}}]} %/ \textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/s/d7fz3hnhxm4xt4o/transcript_merged.pdf?dl=0}{CourseLists}}]}}
+    \CVItemListEnd
+    \CVSubheading
+      {George Washington University}{Aug.2019 -- May.2020}
+      {Exchange Program}{Washington D.C., USA}
+      \CVItemListStart
+        \CVItem{Dean's list (GPA 3.91 / 4.00)} %\textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/s/f844fjga8uhrbd1/GWUTranscript_unlocked.pdf?dl=0}{Trans.}}]} 
+        %/ \textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/s/f844fjga8uhrbd1/GWUTranscript_unlocked.pdf?dl=0}{CourseLists}}]}}
+    \CVItemListEnd
+  \CVSubHeadingListEnd
+
+\section{Research Interest}
+\begin{itemize}[leftmargin=0.5cm, label={}]
+    \item{
+     \textbf{Substantive}{: Political Violence, Conflict, Counterinsurgency, Misinformation}\\
+     \textbf{Methodological}{: Causal Inference, Machine Learning, Causal Inference with Machine Learning} \\
+    }
+ \end{itemize}
+%-----PROJECTS AND RESEARCH----------------------------------------------------
+\section{Peer-Reviewed Publications}
+  \CVSubHeadingListStart
+     \CVSubheading
+      {\small{Balancing Opportunities and Incentives: How Rising China’s Mediated Public Diplomacy Changes under Crisis}}{}
+      {\textit{International Journal of Communication}
+      (\textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/s/p75twzee6zcxujz/BOI_Paper32.pdf?dl=0}{PDF}}]}
+      /
+            \textcolor{sanguria}{[\underline{\href{https://ijoc.org/index.php/ijoc/article/view/18676}{Website}}]})
+      }{}
+    \CVItemListStart
+        \CVItem{Estimated the strategic shift of the rising China's public diplomacy under crisis by machine learning}
+        
+    \CVItemListEnd
+  \CVSubHeadingListEnd
+
+\section{Working Papers / Unpublished Manuscripts}
+\CVSubHeadingListStart  
+    \CVSubheading
+      {{International Credibility for Domestic Legitimacy?}}{}
+      {\textit{Working paper}, Co-Authored with Yuki Mikiya, Presented at SPSA2023, APSA 2023
+      %\textcolor{sanguria}{[\underline{\href{https://stat.uchicago.edu/news/article/the-fall-2021-consulting-cup-award/}{PDF}}]}
+      }{}
+    \CVItemListStart
+        \CVItem{Investigated how the authoritarian regimes implement informational campaign using cross-lingual embedding}
+    \CVItemListEnd
+    
+    \CVSubheading
+      {{Unpacking Mechanisms of Counterinsurgency Operations}}{}
+      {\textit{Working Paper}
+      \textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/scl/fi/awp9954glepnec7pg9xhl/DronePaperManuscript20230504.pdf?rlkey=kozfqasb4mxxse7pje4oetv40&dl=0}{PDF}}]}
+      }{}
+    \CVItemListStart
+        \CVItem{Investigated the effect of drone strikes on the terrorism using spatial analysis and instrumental variable}
+    \CVItemListEnd
+    
+    \CVSubheading
+      {{Understanding the Effect of Military Service on Support for Political Violence}}{}
+      {\textit{Under Review at Journal of Politics}, Co-Authored with Robert Pape, Keven Ruby, and Kyle Larson)
+      }{}
+    \CVItemListStart
+        \CVItem{Analyzed why and how civilians with prior military experiences are prone to support political violence.}
+    \CVItemListEnd
+    
+    \CVSubheading
+      {{Improving Text as Treatment Framework: How to use Latent Treatment}}{}
+      {\textit{Master's Thesis}  
+      %\textcolor{sanguria}{[\underline{\href{https://stat.uchicago.edu/news/article/the-fall-2021-consulting-cup-award/}{PDF}}]}
+      }{}
+    \CVItemListStart
+        \CVItem{Developed the method to utilize the latent treatment within high-dimensional data for causal inference}
+      \CVItemListEnd
+    
+  \CVSubHeadingListEnd
+  
+\section{Working Projects}
+\CVSubHeadingListStart
+\CVSubheading
+      {{Foreign Takeover: Lessons from Great Recession}}{}
+      {\textit{Working Paper}, Co-Authored with Shuhei Kurizaki (First Author)
+      %\textcolor{sanguria}{[\underline{\href{https://www.dropbox.com/s/ek2vqzbn9cost43/ft-cases.pdf?dl=0}{ResearchNote}}]}
+      }{}
+    \CVItemListStart
+        \CVItem{Highlighted the risk of economic security by foreign takeover (case studies).}
+      \CVItemListEnd
+      
+    \CVSubheading
+      {{Great Replacement: How the U.S. insurrection sentiments are motivated?}}{}
+      {\textit{Under Analysis}, Co-Authored with Robert Pape, Keven Ruby, and Kyle Larson  
+      %\textcolor{sanguria}{[\underline{\href{https://stat.uchicago.edu/news/article/the-fall-2021-consulting-cup-award/}{PDF}}]}
+      }{}
+    \CVItemListStart
+        \CVItem{Performed experiments with Parallel Encouragement Design to see how the white population decline stimulates the insurrection sentiments within the U.S.}
+      \CVItemListEnd 
+\CVSubHeadingListEnd
+
+\section{Presentations}
+\begin{itemize}[leftmargin=0.5cm, label={}]
+\item{Yuki Mikiya, \textbf{Kentaro Nakamura} (2023). "International Credibility for Domestic Legitimacy? How Authoritarian Country Coordinated its Narratives during the Crisis", \textit{American Political Science Association}}
+
+\item{\textbf{Kentaro Nakamura} (2023). "Improving Text as Treatment Framework", \textit{Japanese Society for Quantitative Political Science 2023 Summer Meeting}}
+
+    \item{\textbf{Kentaro Nakamura}, Yuki Mikiya (2023). "International Credibility for Domestic Legitimacy? How Authoritarian Country Coordinated its Narratives during the Crisis", \textit{Southern Political Science Association}}
+    \item{\textbf{Kentaro Nakamura} (2022). "How Rising Powers’ Public Diplomacy Changes under Difficulties: the case of China", \textit{Japanese Society for Quantitative Political Science 2022 Winter Meeting}}
+ \end{itemize} 
+
+\section{Academic Services / Discussant Roles}
+\begin{itemize}[leftmargin=0.5cm, label={}]
+    \item{\textbf{Southern Political Science Association Annual Meeting (2023)}, Discussant on the panel \textit{Comparative Media Coverage and Discourse}}
+\end{itemize}
+
+\section{Research Experience}
+\CVSubHeadingListStart
+\CVSubheading
+      {Co-Author with Prof. Kosuke Imai}{Jun.2023 -- Present}
+      {Harvard University}{Cambridge, USA}
+      \CVItemListStart
+        \CVItem{Developed a causal inference method in a high-dimensional setting with deep generative model.}
+      \CVItemListEnd
+
+\CVSubheading
+      {Data and Causal Inference Analyst}{Sep.2022 -- Present}
+      {Chicago Projects on Security and Threats (CPOST), University of Chicago}{Chicago, USA}
+      \CVItemListStart
+        \CVItem{Worked directly with Prof. Robert Pape, Dr. Keven Rudy, and Dr. Kyle Larson as a co-author}
+        \CVItem{Designed experiments, discussed identification strategies, and implemented causal mediation analysis}
+      \CVItemListEnd
+
+  %\CVSubheading
+  %    {Research Assistant at Toyota Technological Institute at Chicago}{Dec.2021 -- Mar.2022}
+  %    {University of Chicago}{Chicago, USA}
+  %    \CVItemListStart
+  %      \CVItem{Implemented and refined the large scale language models based on adaptive softmax layer using PyTorch}
+  %    \CVItemListEnd
+    \CVSubheading
+      {Research Assistant of Prof. Shuhei Kurizaki}{May.2020 -- Sep.2021}
+      {Waseda University}{Tokyo, Japan}
+      \CVItemListStart
+        \CVItem{Conducted the qualitative research on the foreign takeover in Europe (Co-Author since September 2020)}
+      \CVItemListEnd
+\CVSubHeadingListEnd
+      
+\section{Teaching Experience}
+\CVSubHeadingListStart
+    \CVSubheading
+      {Teaching Assistant at the Center for Data Science}{Sep.2020 -- Mar.2021}
+      {Waseda University}{Tokyo, Japan}
+      \CVItemListStart
+        \CVItem {Checked class materials and answered the questions about Statistics and Machine Learning}
+      \CVItemListEnd
+  \CVSubHeadingListEnd
+
+
+%-----HONORS AND AWARDS--------------------------------------------------------
+\section{Honors and Awards}
+  \CVSubHeadingListStart
+\CVSubheading
+      {Japanese Student Service Organization Scholarship}{Sep.2023 - Aug.2026}
+      {Merit-based scholarship. Partial tuition coverage (JPY 3 million yen) and monthly stipends.}{}  
+    \CVSubheading %Example
+     {Graduate Council Research \& Personal Development Fund, University of Chicago}{Jan. 2023}
+    {Travel Grant for attending SPSA2023 (USD600)}{}
+    \CVSubheading
+      {Tuition Fellowship, University of Chicago}
+      {Sep. 2021 - Jun. 2023}
+      {Equivalent to 25 percent of my approved tuition. Increased to 30\% from 2nd year}{}
+    \CVSubheading
+      {Statistics Consulting Cup Awards}{Dec.2021}
+      {Best Prize in the Consulting Program at the Department of Statistics. 
+      \textcolor{sanguria}{[\underline{\href{https://stat.uchicago.edu/news/article/the-fall-2021-consulting-cup-award/}{News}}]}
+      }{}
+    \CVSubheading
+      {NSK Ltd. Scholarship}{Sep.2021 -- Jun.2023}
+      {Scholarship provided only for top four students in Japan. JPY13,600,000 $\approx$ USD100,000}{}
+    \CVSubheading
+      {Japanese Student Service Organization Scholarship}{Mar.2021}
+      {Declined to accept NSK Scholarship. Merit-based scholarship.}{}
+    \CVSubheading
+      {Best Paper Award (Category of Mathematical and Statistical Measurement)}{Feb.2021}
+      {Thesis Competition of the Waseda Association for Political Science and Economics  \textcolor{sanguria}{[\underline{\href{https://www.waseda.jp/fpse/pse/news/2021/02/08/12784/}{News}}]}
+      }{}
+    \CVSubheading
+      {Japanese Student Service Organization Scholarship}{Aug.2019 -- May.2020}
+      {Merit based scholarship to support exchange program. JPY900,000. $\approx$ USD7,000}{}
+  \CVSubHeadingListEnd
+
+
+\section{Additional Training with Certificate}
+  \CVSubHeadingListStart
+    \CVSubheading
+      {The University of Tokyo, Matsuo Laboratory (Deep Learning)}{}
+      {\textcolor{sanguria}{\href{https://www.dropbox.com/s/6ism7kpto4vm6bz/Matsuo\%20Labo\%20Fundamentals.pdf?dl=0}{Fundamentals in Deep Learning}}
+       /  \textcolor{sanguria}{\href{https://www.dropbox.com/s/5z06mt1z06wlnyg/Matsuo\%20Labo\%20Image\%20Recognition.pdf?dl=0}{Image Recognition}}
+       / \textcolor{sanguria}{\href{https://www.dropbox.com/s/euozc42m950jgb3/Matsuo\%20Labo\%20Generative\%20Models.pdf?dl=0}{Deep Generative Models}}
+       / \textcolor{sanguria}{\href{https://www.dropbox.com/s/45g6c7y5qxpdsb5/Matsuo\%20Labo\%20NLP.pdf?dl=0}{Natural Language Processing}}
+       }{}
+     \CVSubheading
+      {Essex Summer School, The University of Essex}{Jul.2020 -- Aug.2020}
+      {\textcolor{sanguria}{\href{https://www.dropbox.com/s/rsligjfbuhfxppv/Essex\%20Panel.pdf?dl=0}{Panel Data Analysis}}
+      / 
+      \textcolor{sanguria}{\href{https://www.dropbox.com/s/dqc4y6a5rpnkip6/Essex\%20Network.pdf?dl=0}{Advanced Network Analysis}}
+      }{Online}
+  \CVSubHeadingListEnd
+
+
+%-----SKILLS-------------------------------------------------------------------
+\begin{comment}
+This section is compressed from the various skills sections that Euro CV
+recommends.
+\end{comment}
+
+\section{Skills}
+ \begin{itemize}[leftmargin=0.5cm, label={}]
+    \item{
+     \textbf{Languages}{: Japanese (Native), English (fluent), Spanish (B1; Intermediate)} \\
+     \textbf{Programming}{: (Proficient) Python(3.X), R, C++ (Rcpp), \LaTeX, ArcGIS, STATA / (Experience) C, HTML, SQL}
+    }
+ \end{itemize}
+
+\section{References}
+Available upon requests
+
+\rightline{\textit{Last updated on \today}}
+%------------------------------------------------------------------------------
+\end{document}

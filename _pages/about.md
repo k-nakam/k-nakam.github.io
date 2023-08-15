@@ -14,5 +14,5 @@ My interest spans two fields: international relations (especially, political vio
 
 I have been engaged in several research projects related to these interests. My work has been published at the peer-reviewed journal (international journal of communication). Since September 2022, I also have worked as a Data and Causal Inference Analyst at Chicago Project on Security and Threats (CPOST).
 
-Before coming at Harvard, I received M.S. in Statistics from the University of Chicago and B.A. in Political Science from Waseda University in Japan. You can download my CV from [here](https://k-nakam.github.io/files/CV.pdf). Feel free to reach me out from knakamura [at]g[dot]harvard[dot]edu.
+Before coming at Harvard, I received M.S. in Statistics from the University of Chicago and B.A. in Political Science from Waseda University in Japan. You can download my CV from [here](https://k-nakam.github.io/files/CV.pdf). Feel free to reach me out from knakamura [at]g.harvard.edu.
 

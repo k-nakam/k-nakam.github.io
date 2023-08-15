@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kentaro Nakamura"
 title_separator          : "-"
 name                     : &name "Kentaro Nakamura"
-description              : &description "M.S. candidate at the University of Chicago"
+description              : &description "Ph.D student at Harvard University"
 url                      : https://k-nakam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "k-nakam.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kentaro Nakamura"
   avatar           : "profile.png"
-  bio              : "M.S. candidate at the University of Chicago"
-  location         : "Chicago, IL"
+  bio              : "Ph.D student at Harvard University"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

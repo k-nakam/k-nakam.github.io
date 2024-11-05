@@ -12,10 +12,10 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Misc"
+- title: "Misc"
     url: /misc/
     
-  - title: "CV"
+- title: "CV"
     url: /cv/
     
   #- title: "Guide"

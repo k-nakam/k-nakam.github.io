@@ -18,5 +18,5 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # What is new?
-- *2024/10/03*: Released the new working paper [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) with Kosuke Imai
-- *2024/07/19*: Presented two posters at PolMeth 2024 (Automated Cognitive Debriefing, Causal Inference with Unstructured High-Dimensional Treatments using Deep Generative Models: Applications to Images and Texts)
+- *2024/10/03*: Released a new working paper [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) with Kosuke Imai
+- *2024/07/19*: Presented Automated Cognitive Debriefing (with Musashi Hinck, Uma Ilavarasan, Gary King, and Brandon M. Stewart) and Causal Inference with Unstructured High-Dimensional Treatments using Deep Generative Models: Applications to Images and Texts (with Kosuke Imai) at Society for Political Methodology.

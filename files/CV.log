@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.12)  1 OCT 2024 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.12)  5 NOV 2024 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,7 +285,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2] [3] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: F1AA5EC320246B3EA561AD9D6ADF1794;1627.
+(rerunfilecheck)             Checksum: 6DDE44F8BEA4B0452B688628C1686FF8;1488.
  ) 
 Here is how much of TeX's memory you used:
  10238 strings out of 476025
@@ -294,9 +294,9 @@ Here is how much of TeX's memory you used:
  30538 multiletter control sequences out of 15000+600000
  527786 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,76p,465b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,76p,465b,635s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (3 pages, 88085 bytes).
+Output written on CV.pdf (3 pages, 88147 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream

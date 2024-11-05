@@ -1,10 +1,12 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+title: "Misc"
+permalink: /misc/
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /misc
 ---
+
+{% include base_path %}
 
 * [How to use Git and Github for Research](https://k-nakam.github.io/files/misc/Github_guide.pdf)

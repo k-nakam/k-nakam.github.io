@@ -14,3 +14,6 @@ author_profile: true
 
 ### Selected Working Papers
 1. Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments, *Working paper*, with Kosuke Imai, Presented at PolMeth2024. [URL](https://arxiv.org/abs/2410.00903)
+
+### Selected Software
+1. CausalText, Available upon Request

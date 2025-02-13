@@ -18,6 +18,7 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2025/02/12*: Presented Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments at [Applied Statistics Workshop, Harvard University](https://projects.iq.harvard.edu/applied.stats.workshop-gov3009/presentations/kentaro-nakamura-presents-causal-representation)
 - *2025/01/05*: Presented Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments at [JSQPS Winter Meeting](https://sites.google.com/view/jsqps/2025-winter-meeting-program?authuser=0)
 - *2024/10/03*: Released a new working paper [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) with Kosuke Imai
 - *2024/08/01*: [Understanding the Impact of Military Service on Support for Insurrection in the United States](https://journals.sagepub.com/doi/10.1177/00220027241267216) is published on *Journal of Conflict Resolution*

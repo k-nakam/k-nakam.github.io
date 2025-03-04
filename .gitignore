@@ -1,0 +1,10 @@
+_site/
+files/CV.aux
+files/CV.fdb_latexmk
+files/CV.fls
+files/CV.log
+files/CV.out
+files/CV.synctex.gz
+files/CV.toc
+files/CV.tex
+.DS_Store

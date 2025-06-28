@@ -18,6 +18,7 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2025/06/28*: Invited Talk: [Nospare](https://lu.ma/h0qzb4sg?locale=ja)
 - *2025/05/20*: Presented a tutorial of [gpi_pack](https://gpi-pack.github.io/index.html) at [Oxford Computational Political Science Group](https://www.linkedin.com/company/oxford-computational-political-science-group/) (slide is available from [here](https://k-nakam.github.io/files/misc/Oxford25OCPSG_software.pdf))
 - *2025/02/27*: Released the software [gpi_pack](https://gpi-pack.github.io/index.html) for generative-AI powered statistical inference
 - *2025/02/12*: Presented Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments at [Applied Statistics Workshop, Harvard University](https://projects.iq.harvard.edu/applied.stats.workshop-gov3009/presentations/kentaro-nakamura-presents-causal-representation)

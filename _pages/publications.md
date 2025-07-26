@@ -17,7 +17,7 @@ author_profile: true
 
 2. Gen-AI Powered Inference, *Working paper*, with Kosuke Imai, Presented at PolMeth2025. [URL](https://arxiv.org/abs/2507.03897)
 
-3. Efficient Statistical Inference from Partial and Noisy Annotations: Application to Text-as-Outcome, Presented at PolMeth2025
+3. Efficient Statistical Inference from Partial and Noisy Annotations: Application to Text-as-Outcome, *Working paper*, Presented at PolMeth2025
     - Awarded Best Poster Award (Method) at PolMeth2025
 
 

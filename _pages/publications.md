@@ -15,7 +15,11 @@ author_profile: true
 ### Selected Working Papers
 1. Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments, *Working paper*, with Kosuke Imai, Presented at PolMeth2024. [URL](https://arxiv.org/abs/2410.00903)
 
-2. Gen-AI Powered Inference, *Working paper*, with Kosuke Imai, To be presented at PolMeth2025. [URL](https://arxiv.org/abs/2507.03897)
+2. Gen-AI Powered Inference, *Working paper*, with Kosuke Imai, Presented at PolMeth2025. [URL](https://arxiv.org/abs/2507.03897)
+
+3. Efficient Statistical Inference from Partial and Noisy Annotations: Application to Text-as-Outcome, Presented at PolMeth2025
+    - Awarded Best Poster Award (Method) at PolMeth2025
+
 
 ### Selected Software
 1. **gpi-pack** (Python module for Generative-AI powered statistical inference) [[Pypl]](https://pypi.org/project/gpi-pack/) [[Website]](https://gpi-pack.github.io/index.html)

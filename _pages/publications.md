@@ -17,7 +17,7 @@ author_profile: true
 
 2. Gen-AI Powered Inference, *Working paper*, with Kosuke Imai, Presented at PolMeth2025. [URL](https://arxiv.org/abs/2507.03897)
 
-3. Surrogate Representation Inference for Noisy Text and Image Annotations, *Working paper*, Presented at PolMeth2025
+3. Surrogate Representation Inference for Noisy Text and Image Annotations, *Working paper*, Presented at PolMeth2025 [URL](https://arxiv.org/abs/2509.12416)
     - Society of Political Methodology Best Poster Award (Method) at PolMeth2025
 
 

@@ -18,6 +18,8 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2025/09/17*: Presented Surrogate Representation Inference for Noisy Text and Image Annotations at [Applied Statistics Workshop, Harvard University](https://appliedstatsworkshopgov3009.hsites.harvard.edu/event/kentaro-nakamura-harvard?occ_id=0)
+- *2025/09/15*: Released a new working paper [Surrogate Representation Inference for Noisy Text and Image Annotations](https://arxiv.org/abs/2509.12416)
 - *2025/09/13*: Discussant: Annual Meeting of American Political Science Association
 - *2025/09/12*: Presented GenAI-Powered Inference at Annual Meeting of American Political Science Association
 - *2025/07/25*: Received [the best poster award (method)](https://polmeth.org/spm-poster-awards) at Society for Political Methodology Annual Meeting.

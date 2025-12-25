@@ -20,4 +20,4 @@ author_profile: true
     - Week 10 (Advanced Weighting / Causal Machine Learning / Mediation) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module9.pdf)
     - Week 11 (Difference-in-Difference / Synthetic Control Method) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module10.pdf)
     - Review Lecture (Causal Inference for Observational Data) [Slides](https://k-nakam.github.io/files/teaching/gov2002/final_review_gov.pdf)
-- GOV2003: Quantitative Social Science Methods II (Professor Kosuke Imai), Spring 2026
+- GOV2003: Statistical Models for Quantitative Social Science (Professor Kosuke Imai), Spring 2026

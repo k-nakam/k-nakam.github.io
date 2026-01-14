@@ -7,7 +7,7 @@ author_profile: true
 
 ### Harvard University
 
-- GOV2002: Causal Inference with Applications (Professor Kosuke Imai), Fall 2025
+- GOV2002: Causal Inference with Applications (Professor Kosuke Imai), Fall 2025 [Syllabus](https://k-nakam.github.io/files/teaching/gov2002/syllabus.pdf) / [Evaluation](https://k-nakam.github.io/files/teaching/gov2002/evaluation.pdf)
     - Week 2 (Permutation Test) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module2.pdf)
     - Week 3 (Average Treatment Effect) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module3.pdf)
     - Week 4 (Linear Regression and Randomized Experiments) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module4.pdf)

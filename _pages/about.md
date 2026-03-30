@@ -18,6 +18,7 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2026/04/03*: Invited Talk: Frontier in Political Methodology (at Washington University at St. Louis)
 - *2026/02/23*: Invited Talk: Stanford University (Guest speaker for POLISCI 450D)
 - *2026/02/10*: Invited Talk: [Causal Inference Seminar, Harvard University](https://datascience.harvard.edu/calendar_event/causal-inference-showcase-2026/)
 - *2025/09/17*: Presented Surrogate Representation Inference for Noisy Text and Image Annotations at [Applied Statistics Workshop, Harvard University](https://appliedstatsworkshopgov3009.hsites.harvard.edu/event/kentaro-nakamura-harvard?occ_id=0)

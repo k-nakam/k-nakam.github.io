@@ -20,6 +20,8 @@ author_profile: true
 3. Surrogate Representation Inference for Text and Image Annotations, *Working paper*, Presented at PolMeth2025 [URL](https://arxiv.org/abs/2509.12416)
     - Society of Political Methodology Best Poster Award (Method) at PolMeth2025 [News](https://polmeth.org/spm-poster-awards)
 
+4. GenAI Powered Dynamic Causal Inference with Unstructured Data, *Working paper*, with Kosuke Imai [URL](https://arxiv.org/abs/2605.07834)
+
 
 ### Selected Software
 1. **gpi-pack** (Python module for Generative-AI powered statistical inference) [[Pypl]](https://pypi.org/project/gpi-pack/) [[Website]](https://gpi-pack.github.io/index.html)

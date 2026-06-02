@@ -13,11 +13,12 @@ Welcome to my website. I am a Ph.D. candidate at Harvard Kennedy School (Politic
 
 My research centers on political methodologies and applications. Methodologically, I am interested in the intersection of causal inference and machine learning, especially causal inference methods for texts, images, and videos. Substantively, my focus lies on political communication and political violence.
 
-I have contributed to several research projects aligned with these interests, and my work has been published in peer-reviewed journals, including *Journal of Conflict Resolution* and *the International Journal of Communication*.
+I have contributed to several research projects aligned with these interests, and my work has been published in peer-reviewed journals, including *Journal of the American Statistical Association*, *Journal of Conflict Resolution* and *the International Journal of Communication*.
 
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2026/06/01*: [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) is accepted at Journal of the American Statistical Association
 - *2026/05/10*: Released a new working paper [GenAI Powered Dynamic Causal Inference with Unstructured Data](https://arxiv.org/abs/2605.07834) with Kosuke Imai
 - *2026/04/03*: Invited Talk: [Frontier in Political Methodology](https://polisci.wustl.edu/past-events/frontiers-political-methodology-conference-0) (at Washington University at St. Louis)
 - *2026/02/23*: Invited Talk: Stanford University (Guest speaker for POLISCI 450D)

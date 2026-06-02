@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Published Articles
-3. Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments, Journal of the American Statistical Association (Accepted), with Kosuke Imai [URL](https://arxiv.org/abs/2410.00903)
+3. Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments, *Journal of the American Statistical Association* (Accepted), with Kosuke Imai [URL](https://arxiv.org/abs/2410.00903)
 
 2. Understanding the Impact of Military Service on Support for Insurrection in the United States, *Journal of Conflict Resolution*, with Robert Pape, Keven Ruby, and Kyle Larson. [URL](https://journals.sagepub.com/doi/10.1177/00220027241267216)
 

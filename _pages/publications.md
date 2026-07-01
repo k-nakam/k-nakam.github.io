@@ -15,6 +15,8 @@ author_profile: true
 
 
 ### Selected Working Papers
+4. Where’s the Evidence that Respondents Understand Your Survey Questions?, *Working paper*, with Musashi Hinck, Gary King, and Brandon Stewart. [URL](https://gking.harvard.edu/debrief/)
+
 3. GenAI Powered Dynamic Causal Inference with Unstructured Data, *Working paper*, with Kosuke Imai [URL](https://arxiv.org/abs/2605.07834)
 
 2. Surrogate Representation Inference for Text and Image Annotations, *Working paper*, Presented at PolMeth2025 [URL](https://arxiv.org/abs/2509.12416)

@@ -18,6 +18,7 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2026/07/01*: Released a new working paper [Where’s the Evidence that Respondents Understand Your Survey Questions?](https://gking.harvard.edu/debrief/) with Musashi Hinck, Gary King, and Brandon Stewart
 - *2026/06/01*: [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) is accepted at Journal of the American Statistical Association
 - *2026/05/10*: Released a new working paper [GenAI Powered Dynamic Causal Inference with Unstructured Data](https://arxiv.org/abs/2605.07834) with Kosuke Imai
 - *2026/04/03*: Invited Talk: [Frontier in Political Methodology](https://polisci.wustl.edu/past-events/frontiers-political-methodology-conference-0) (at Washington University at St. Louis)

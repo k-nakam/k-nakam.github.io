@@ -25,6 +25,6 @@ author_profile: true
 1. Gen-AI Powered Inference, *Working paper*, with Kosuke Imai, Presented at PolMeth2025. [URL](https://arxiv.org/abs/2507.03897)
 
 ### Selected Software
-2. **debriefly** (Survey tools for automated cognitive debriefing. Available upon requests.)
+2. **debriefly** (Survey tools for automated cognitive debriefing) [URL](https://www.debriefly.net/)
 
 1. **gpi-pack** (Python module for Generative-AI powered statistical inference) [[Pypl]](https://pypi.org/project/gpi-pack/) [[Website]](https://gpi-pack.github.io/index.html)

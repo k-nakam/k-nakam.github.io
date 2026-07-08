@@ -15,6 +15,8 @@ author_profile: true
 
 
 ### Selected Working Papers
+5. Causal Inference with Video Features as Treatments, *Working paper*, with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai. [URL](https://arxiv.org/abs/2607.06126)
+
 4. Where’s the Evidence that Respondents Understand Your Survey Questions?, *Working paper*, with Musashi Hinck, Gary King, and Brandon Stewart. [URL](https://gking.harvard.edu/debrief/)
 
 3. GenAI Powered Dynamic Causal Inference with Unstructured Data, *Working paper*, with Kosuke Imai [URL](https://arxiv.org/abs/2605.07834)

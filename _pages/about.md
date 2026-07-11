@@ -18,6 +18,13 @@ I have contributed to several research projects aligned with these interests, an
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2026/08/03*: Presented [A General Approach to Correcting Measurement Errors When Only Indirect Validation is Possible](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/session.cfm?id=6087) (with Naoki Egami) at Joint Statistical Meeting
+- *2026/07/19*: Presented
+  - [Causal Inference with Video Features as Treatments](https://arxiv.org/abs/2607.06126) (with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai)
+  - [Where’s the Evidence that Respondents Understand Your Survey Questions?](https://gking.harvard.edu/debrief/) (with Musashi Hinck, Gary King, and Brandon Stewart)
+  - Identification and Estimation for AI- and Algorithm-Powered Interventions (Poster)
+  - No ``Human Labels as Gold Standard'': When LLMs Disagree, Humans Do Too (Poster, with Jing Ling Tan and George Yean)
+  at Society for Political Methodology Annual Meeting.
 - *2026/07/08*: Released a new working paper [Causal Inference with Video Features as Treatments](https://arxiv.org/abs/2607.06126) with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai
 - *2026/07/01*: Released a new working paper [Where’s the Evidence that Respondents Understand Your Survey Questions?](https://gking.harvard.edu/debrief/) with Musashi Hinck, Gary King, and Brandon Stewart
 - *2026/06/01*: [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) is accepted at Journal of the American Statistical Association

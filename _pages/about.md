@@ -23,7 +23,7 @@ Before joining Harvard, I earned an M.S. in Statistics from the University of Ch
   - [Causal Inference with Video Features as Treatments](https://arxiv.org/abs/2607.06126) (with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai)
   - [Where’s the Evidence that Respondents Understand Your Survey Questions?](https://gking.harvard.edu/debrief/) (with Musashi Hinck, Gary King, and Brandon Stewart)
   - Identification and Estimation for AI- and Algorithm-Powered Interventions (Poster)
-  - No ``Human Labels as Gold Standard'': When LLMs Disagree, Humans Do Too (Poster, with Jing Ling Tan and George Yean)
+  - No "Human Labels as Gold Standard": When LLMs Disagree, Humans Do Too (Poster, with Jing Ling Tan and George Yean)
 - *2026/07/08*: Released a new working paper [Causal Inference with Video Features as Treatments](https://arxiv.org/abs/2607.06126) with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai
 - *2026/07/01*: Released a new working paper [Where’s the Evidence that Respondents Understand Your Survey Questions?](https://gking.harvard.edu/debrief/) with Musashi Hinck, Gary King, and Brandon Stewart
 - *2026/06/01*: [Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments](https://arxiv.org/abs/2410.00903) is accepted at Journal of the American Statistical Association

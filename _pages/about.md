@@ -11,13 +11,14 @@ redirect_from:
 # About Me
 Welcome to my website. I am a Ph.D. candidate at Harvard Kennedy School (Politics and Institutions track).
 
-My research centers on political methodologies and applications. Methodologically, I am interested in the intersection of causal inference and machine learning, especially causal inference methods for texts, images, and videos. Substantively, my focus lies on political communication and political violence.
+My research centers on political methodologies and applications. Methodologically, I am interested in the intersection of causal inference and machine learning, especially (1) causal inference methods for texts, images, and videos. Substantively, my focus lies on political communication and misinformation.
 
 I have contributed to several research projects aligned with these interests, and my work has been published in peer-reviewed journals, including *Journal of the American Statistical Association*, *Journal of Conflict Resolution* and *the International Journal of Communication*.
 
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 
 # Recent Updates
+- *2026/08/04*: [GenAI-Powered Inference](https://arxiv.org/abs/2507.03897) is accepted at Proceedings of the National Academy of Sciences
 - *2026/08/03*: Presented [A General Approach to Correcting Measurement Errors When Only Indirect Validation is Possible](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/session.cfm?id=6087) (with Naoki Egami) at Joint Statistical Meeting
 - *2026/07/19*: Presented the followings at Society for Political Methodology Annual Meeting.
   - [Causal Inference with Video Features as Treatments](https://arxiv.org/abs/2607.06126) (with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai)

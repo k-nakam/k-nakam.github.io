@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "About my research"
 permalink: /research/
 author_profile: true
 ---
-
-# Research Programs
 
 My research develops and applies new statistical and causal inference methods for social science in the era of artificial intelligence (AI). Alongside advancing methodological foundations, I use these tools to study substantive questions about human–AI interactions and the broader implications of AI and algorithms for society. My current work centers on the following interconnected research programs.
 

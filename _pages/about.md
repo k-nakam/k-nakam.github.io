@@ -11,9 +11,9 @@ redirect_from:
 # About Me
 Welcome to my website. I am a Ph.D. candidate at Harvard Kennedy School (Politics and Institutions track).
 
-My research centers on political methodologies and applications. Methodologically, I am interested in the intersection of causal inference and machine learning, especially (1) causal inference methods for texts, images, and videos. Substantively, my focus lies on political communication and misinformation.
+My research centers on political methodologies and applications. Methodologically, I am interested in the intersection of causal inference and machine learning, especially causal inference methods for texts, images, and videos. Substantively, my focus lies on political communication and misinformation. See [my research page](https://k-nakam.github.io/research/) for the current research program.
 
-I have contributed to several research projects aligned with these interests, and my work has been published in peer-reviewed journals, including *Journal of the American Statistical Association*, *Journal of Conflict Resolution* and *the International Journal of Communication*.
+I have contributed to several research projects aligned with these interests, and my work has been published in peer-reviewed journals, including *Journal of the American Statistical Association*, *Proceedings of the National Academy of Sciences*, *Journal of Conflict Resolution*, and *the International Journal of Communication*.
 
 Before joining Harvard, I earned an M.S. in Statistics from the University of Chicago and a B.A. in Political Science from Waseda University in Japan. Feel free to reach out to me at knakamura [at] g.harvard.edu.
 

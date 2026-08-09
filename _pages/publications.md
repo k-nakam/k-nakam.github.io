@@ -7,9 +7,9 @@ author_profile: true
 
 
 ### Published Articles
-4. Gen-AI Powered Inference, *Working paper*, with Kosuke Imai, *Proceedings of the National Academy of Sciences* (Accepted), [URL](https://arxiv.org/abs/2507.03897)
+4. Leveraging Generative Artificial Intelligence for Causal Inference with Unstructured Data, *Working paper*, with Kosuke Imai, *Proceedings of the National Academy of Sciences* (Accepted), [URL](https://arxiv.org/abs/2507.03897)
 
-3. Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments, *Journal of the American Statistical Association* (Accepted), with Kosuke Imai [URL](https://arxiv.org/abs/2410.00903)
+3. Causal Inference with Generative Artificial Intelligence: Application to Texts as Treatments, *Journal of the American Statistical Association* (Accepted), with Kosuke Imai [URL](https://arxiv.org/abs/2410.00903)
 
 2. Understanding the Impact of Military Service on Support for Insurrection in the United States, *Journal of Conflict Resolution*, with Robert Pape, Keven Ruby, and Kyle Larson. [URL](https://journals.sagepub.com/doi/10.1177/00220027241267216)
 

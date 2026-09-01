@@ -17,13 +17,15 @@ author_profile: true
 
 
 ### Selected Working Papers
-5. Causal Inference with Video Features as Treatments, *Working paper*, with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai. [URL](https://arxiv.org/abs/2607.06126)
+5. Observational Equivalence of LLM and Human Annotation, *Working paper*, with Jing Ling Tan and George Yean. [URL](https://k-nakam.github.io/files/papers/llm_validation.pdf)
 
-4. Where’s the Evidence that Respondents Understand Your Survey Questions?, *Working paper*, with Musashi Hinck, Gary King, and Brandon Stewart. [URL](https://gking.harvard.edu/debrief/)
+4. Causal Inference with Video Features as Treatments, *Working paper*, with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai. [URL](https://arxiv.org/abs/2607.06126)
 
-3. GenAI Powered Dynamic Causal Inference with Unstructured Data, *Working paper*, with Kosuke Imai [URL](https://arxiv.org/abs/2605.07834)
+3. Where’s the Evidence that Respondents Understand Your Survey Questions?, *Working paper*, with Musashi Hinck, Gary King, and Brandon Stewart. [URL](https://gking.harvard.edu/debrief/)
 
-2. Surrogate Representation Inference for Text and Image Annotations, *Working paper*, Presented at PolMeth2025 [URL](https://arxiv.org/abs/2509.12416)
+2. GenAI Powered Dynamic Causal Inference with Unstructured Data, *Working paper*, with Kosuke Imai [URL](https://arxiv.org/abs/2605.07834)
+
+1. Surrogate Representation Inference for Text and Image Annotations, *Working paper*, Presented at PolMeth2025 [URL](https://arxiv.org/abs/2509.12416)
     - Society of Political Methodology Best Poster Award (Method) at PolMeth2025 [News](https://polmeth.org/spm-poster-awards)
 
 ### Selected Software

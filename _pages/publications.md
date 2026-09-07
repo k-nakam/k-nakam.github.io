@@ -17,7 +17,7 @@ author_profile: true
 
 
 ### Selected Working Papers
-5. Observational Equivalence of LLM and Human Annotation, *Working paper*, with Jing Ling Tan and George Yean. [URL](https://k-nakam.github.io/files/papers/llm_validation.pdf)
+5. Observational Equivalence of LLM and Human Annotation, *Working paper*, with Jing Ling Tan and George Yean. [URL](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7389359)
 
 4. Causal Inference with Video Features as Treatments, *Working paper*, with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai. [URL](https://arxiv.org/abs/2607.06126)
 

@@ -13,7 +13,7 @@ author_profile: true
     - Week 4 (Linear Regression and Randomized Experiments) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module4.pdf)
     - Week 5 (Instrumental Variable) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module5.pdf)
     - Week 6 (Regression Discontinuity Design) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module6.pdf)
-    - Week 7 (Review of Midterm / Sensitivity Analysis) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module6.5.pdf)
+    - Week 7 (Sensitivity Analysis / Partial Identification) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module6.5.pdf)
     - Week 8 (Partial Identification / Directed Acyclic Graph) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module7.pdf)
     - Week 9 (Matching / Weighting for Observational Studies) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module8.pdf)
     - Week 10 (Advanced Weighting / Causal Machine Learning / Mediation) [Slides](https://k-nakam.github.io/files/teaching/gov2002/Module9.pdf)

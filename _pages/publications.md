@@ -17,6 +17,8 @@ author_profile: true
 
 
 ### Selected Working Papers
+6. A General Statistical Framework for Attention and Manipulation Checks, *Working paper*, with Kosuke Imai. [URL](https://arxiv.org/pdf/2611.10515)
+
 5. Observational Equivalence of LLM and Human Annotation, *Working paper*, with Jing Ling Tan and George Yean. [URL](https://arxiv.org/abs/2609.22133)
 
 4. Causal Inference with Video Features as Treatments, *Working paper*, with Adam Breuer, Michael H. Crespin, Bryce J. Dietrich, Kosuke Imai. [URL](https://arxiv.org/abs/2607.06126)

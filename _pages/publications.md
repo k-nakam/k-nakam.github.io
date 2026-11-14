@@ -17,7 +17,7 @@ author_profile: true
 
 
 ### Selected Working Papers
-6. A General Statistical Framework for Attention and Manipulation Checks, *Working paper*, with Kosuke Imai. [URL](https://arxiv.org/pdf/2611.10515)
+6. A General Statistical Framework for Attention and Manipulation Checks, *Working paper*, with Kosuke Imai. [URL](https://arxiv.org/abs/2611.10515)
 
 5. Observational Equivalence of LLM and Human Annotation, *Working paper*, with Jing Ling Tan and George Yean. [URL](https://arxiv.org/abs/2609.22133)
 
